@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74.636" height="87.913" viewBox="0 0 74.636 87.913">
+  <defs>
+    <filter id="Icon_material-autorenew" x="0" y="0" width="74.636" height="87.913" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-color="#1584e3"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_material-autorenew-2" x="0" y="0" width="74.636" height="87.913" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-2"/>
+      <feFlood flood-color="#1584e3"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_78" data-name="Group 78" transform="translate(-854.535 -370.043)">
+    <g transform="matrix(1, 0, 0, 1, 854.54, 370.04)" filter="url(#Icon_material-autorenew)">
+      <path id="Icon_material-autorenew-3" data-name="Icon material-autorenew" d="M21.818,11.386v5.932l7.909-7.909L21.818,1.5V7.432A15.79,15.79,0,0,0,8.452,31.673l2.887-2.887A11.607,11.607,0,0,1,9.954,23.25,11.873,11.873,0,0,1,21.818,11.386Zm13.366,3.44L32.3,17.713a11.844,11.844,0,0,1-10.479,17.4V29.181L13.909,37.09,21.818,45V39.068A15.79,15.79,0,0,0,35.184,14.827Z" transform="translate(15.5 17.71)" fill="none" stroke="#0d71cf" stroke-width="1"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 854.54, 370.04)" filter="url(#Icon_material-autorenew-2)">
+      <path id="Icon_material-autorenew-4" data-name="Icon material-autorenew" d="M21.818,11.386v5.932l7.909-7.909L21.818,1.5V7.432A15.79,15.79,0,0,0,8.452,31.673l2.887-2.887A11.607,11.607,0,0,1,9.954,23.25,11.873,11.873,0,0,1,21.818,11.386Zm13.366,3.44L32.3,17.713a11.844,11.844,0,0,1-10.479,17.4V29.181L13.909,37.09,21.818,45V39.068A15.79,15.79,0,0,0,35.184,14.827Z" transform="translate(15.5 17.71)" fill="none" stroke="#0d71cf" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

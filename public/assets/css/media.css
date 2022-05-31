@@ -1,0 +1,273 @@
+@media only screen and (max-width: 900px) {
+
+  header {
+    padding: 0 10px;
+    height: unset;
+    line-height: unset;
+  }
+
+  .how-much,
+  .tokenomics,
+  footer,
+  .find-us-on,
+  .main-home {
+    width: 100%;
+    padding: 0 13px;
+    margin: 60px auto;
+  }
+
+  .autostaking {
+    width: 100%;
+    padding: 3px 9px;
+    margin: 5px auto;
+    padding-bottom: 27px;
+    margin-bottom: 25px;
+  }
+
+  .autostaking:before {
+    background-size: 68%
+  }
+
+  .logo a {
+    width: 100%;
+  }
+
+  .wallet {
+    width: 100%;
+    margin: 0px auto;
+    margin-top: 0;
+    margin-bottom: 66px;
+  }
+
+  .time_buy {
+    width: 98%;
+    margin: 40px auto 35px auto;
+  }
+
+  .timedown .time_buy_row p {
+    font-size: 14px;
+  }
+
+  .how-much h2 {
+    margin-bottom: 0px;
+  }
+
+  .btn-shine {
+    transform: translate(-50%, -10%)
+  }
+
+  .autostaking .autostaking-content h3 svg text {
+    font-size: 37px;
+  }
+
+  .autostaking .autostaking-content .left h3 {
+    font-size: 40px;
+    margin-bottom: -6px;
+  }
+
+  .wallet .left,
+  .wallet .right {
+    padding-top: 1px;
+  }
+
+  .wallet .left {
+    text-align: center;
+  }
+
+  .wallet .right {
+    padding: 0 13px;
+  }
+
+  .find-us-on a {
+    width: 49%;
+    float: left;
+    margin: 0 0.5% 0 0.5%;
+  }
+
+  .find-us-on img,
+  .tokenomics .tokenomics-row {
+    width: 100%;
+  }
+
+  .tokenomics .tokenomics-row {
+    margin: 10px auto
+  }
+
+  .main-home {
+    padding-top: 0;
+    margin-bottom: 0;
+  }
+
+  .main-home .right img {
+    bottom: -9px;
+  }
+
+  .main-home-content {
+    margin: 30px 0 0 0px
+  }
+
+  .main-home-action a {
+    color: white;
+  }
+
+  .main-home-content h1 {
+    font-size: 22px
+  }
+
+  .main-home-content li {
+    line-height: 33px;
+    padding-left: 20px;
+  }
+
+  .footer-row .social-links a {
+    display: inline-block;
+    margin: 0 15px;
+    margin-bottom: 20px;
+  }
+
+  .footer-row h2,
+  .find-us-on h2 {
+    margin-bottom: 20px;
+  }
+
+  .how-much p {
+    text-align: left;
+  }
+
+  .footer-row .social-links a svg {
+    width: 55px;
+    height: 30px;
+  }
+
+  .left,
+  .right {
+    width: 100% !important
+  }
+
+  .links {
+    background: #020b14;
+    text-align: center;
+    padding: 20px 0;
+    position: absolute;
+    width: 90% !important;
+    border-radius: 6px;
+    top: 150px;
+    left: 5%;
+    float: unset;
+    z-index: 999;
+    box-shadow: 0 0 0px 1px #000000;
+    display: none;
+  }
+
+  header .links ul li .darth_header_btn {
+    display: block;
+    margin-bottom: 15px;
+    margin-top: 10px;
+  }
+
+  .open_menu {
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    clear: both;
+    padding: 10px 0;
+  }
+
+  header .links ul li {
+    display: block;
+    line-height: 45px;
+  }
+
+  .autostaking .autostaking-content .left .autostaking-img {
+    position: relative;
+    background-size: 70%;
+
+    width: 100%
+  }
+
+  .autostaking .autostaking-content img {
+    width: 100%;
+  }
+
+  .autostaking .autostaking-content .right {
+    padding-top: 40px;
+  }
+
+  h2 {
+    font-size: 27px !important;
+    line-height: 50px;
+  }
+
+  a.contract {
+    display: block;
+    width: 97%;
+    font-size: 14px;
+  }
+
+  .how-much .left h3,
+  .how-much .right h3 {
+    font-size: 18px;
+    line-height: 35px;
+  }
+
+  .tokenomics .tokenomics-title h3 {
+    padding: 4px 0 5px 0;
+  }
+
+  .slick-slide {
+    padding-top: 21px;
+    height: 125px !important
+  }
+
+  .tokenomics {
+    margin-top: 0px !important
+  }
+
+  .autostaking-content h2 {
+    margin-bottom: 0;
+    margin-top: 50px;
+    font-size: 23px !important;
+  }
+
+  .timedown h2 {
+    font-size: 23px !important;
+  }
+
+  .autostaking .autostaking-content h3 svg {
+    margin-top: 0
+  }
+
+  .how-much {
+    margin-top: 95px;
+
+  }
+
+  .slide {
+    margin-top: -15px;
+    width: 100%;
+  }
+
+  .main-home img {
+    position: relative;
+    right: 0;
+    bottom: -9px;
+    width: 421px;
+  }
+
+  .main-home .right {
+    height: 300px;
+    background-position: center center;
+    bottom: 0;
+    background-size: 100%;
+    margin-top: 38px;
+  }
+
+  .timedown {
+    margin-top: 65px;
+    margin-bottom: 28px;
+  }
+
+  .find-us-on {
+    margin-top: 0;
+  }
+}
